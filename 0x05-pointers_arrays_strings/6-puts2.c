@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * put2 - prints every other character of a string, starting
- * with the first character, followed by a new line
+ * put2 - a function that printsone charater out of the two
+ * starts with the first
  * @str: input
  * Return: print
  */
@@ -17,7 +17,7 @@ void puts2(char *str)
 	while (*y != '\0')
 	{
 		y++;
-		longi;
+		longi++;
 	}
 	t = longi - 1;
 	for (o = 0 ; o <= t ; o++)

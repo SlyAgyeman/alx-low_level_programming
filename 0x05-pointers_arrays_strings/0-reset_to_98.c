@@ -2,7 +2,7 @@
 
 
 /**
- * a function that takes a pointer to an int as parameter and updates the value
+ * a function that takes a pointer to an int as parameter
  * I am reseting 
  * @n: input
  * Return: n

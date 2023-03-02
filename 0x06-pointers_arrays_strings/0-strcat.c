@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * _strcat - a function that concatenate two strings
- * Appends the src string to the dest string
- * overwrites the terminating null
+ * _strcat - Concatenates two strings
+ * src string to the dest string and  overwrites
  * @dest: input value
  * @src: input value
  *
